@@ -1,0 +1,89 @@
+#volver{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    transform: scale(1);
+    border-radius: 50%;
+    display: inline-block;
+    cursor:pointer
+    
+    
+}
+#textoVolver{
+    color: white;
+    padding-left: 20%;
+    padding-top: 30%;
+    cursor:pointer
+}
+#titulo{
+    display:inline-block;
+    margin-left:36%;
+    transform: scale(2);
+}
+.textos{
+    color: white;
+    padding-left: 15%;
+    padding-top: 15%;
+    cursor:pointer
+}
+#circulo1{
+    background-color: black;
+    height: 320px;
+    width: 320px;
+    margin-right: 0px;
+    transform: scale(1);
+    border-radius: 50%;
+    display: inline-block;
+    cursor:pointer
+}
+#circulo3{
+    background-color: black;
+    height: 320px;
+    width: 320px;
+    margin-right: 0px;
+    transform: scale(1);
+    vertical-align: top;
+    border-radius: 50%;
+    display: inline-block;
+    cursor:pointer
+}
+#circulo4{
+    background-color: black;
+    height: 320px;
+    width: 320px;
+    vertical-align: top;
+    transform: scale(1);
+    border-radius: 50%;
+    display: inline-block;
+    cursor:pointer
+}
+
+#circulo2{
+    vertical-align: top;
+    background-color: black;
+    height: 320px;
+    width: 320px;
+    margin-right: 0px;
+    transform: scale(1);
+    border-radius: 50%;
+    display: inline-block;
+    cursor:pointer
+} 
+#contenido{
+    margin-top: 10%;
+    margin-left: 25%;
+}
+#contenido2{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+#contenido3{
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.textosSolos{
+    color: white;
+    padding-left: 15%;
+    padding-top: 35%;
+    cursor:pointer
+}

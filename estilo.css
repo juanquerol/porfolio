@@ -1,0 +1,151 @@
+#cuerpo{
+    background-color: black;
+    color: white;
+}
+
+#foto{
+    display: block;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translateX(-50%);
+}
+#nombre{
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translateX(-50%);
+}
+.circulosBlancos{
+    
+    background-color: white;
+    border-radius: 50%;
+    cursor:pointer;
+}
+#texto1{
+    color: black;
+    padding-left: 26%;
+    padding-top: 33%;
+    cursor:pointer
+}
+#texto2{
+    color: black;
+    padding-left: 26%;
+    padding-top: 33%;
+    cursor:pointer
+}
+#texto3{
+    color: black;
+    padding-left: 26%;
+    padding-top: 33%;
+    cursor:pointer
+}
+#texto4{
+    color: black;
+    padding-left: 23%;
+    padding-top: 30%;
+    cursor:pointer
+}
+#texto5{
+    color: black;
+    padding-left: 20%;
+    padding-top: 33%;
+    cursor:pointer
+}
+#circulo1{
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    left: 33%;
+    top: 50%;
+    transform: translateX(-50%);
+    
+}
+#circulo2{
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    left: 33%;
+    top: 15%;
+    transform: translateX(-50%);
+}
+#circulo3{
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translateX(-50%);
+}
+#circulo4{
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    left: 67%;
+    top: 15%;
+    transform: translateX(-50%);
+}
+
+#circulo5{
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    left: 67%;
+    top: 50%;
+    transform: translateX(-50%);
+    
+}
+#mas{
+    display: none;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    cursor:pointer;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: translateX(-50%);
+}
+#menos{
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    cursor:pointer;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: translateX(-50%);
+}
+#masTexto{
+    color: black;
+    margin-left: 35%;
+    margin-top: 20%;
+    cursor:pointer
+}
+#menosTexto{
+    color: black;
+    margin-left: 40%;
+    margin-top: 15%;
+    cursor:pointer
+}
+#explicacion{
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translateX(-50%);
+}
